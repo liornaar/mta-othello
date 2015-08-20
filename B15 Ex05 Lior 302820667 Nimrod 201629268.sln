@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B15 Ex05 Othello", "B15 Ex05 Othello\B15 Ex05 Othello.csproj", "{CCDFC960-BB15-48B4-8DB1-6B12E9685D43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8E4129F0-2C0D-46FD-895B-3FD5EF796F25}"
+	ProjectSection(SolutionItems) = preProject
+		Submition info.txt = Submition info.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCDFC960-BB15-48B4-8DB1-6B12E9685D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDFC960-BB15-48B4-8DB1-6B12E9685D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDFC960-BB15-48B4-8DB1-6B12E9685D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDFC960-BB15-48B4-8DB1-6B12E9685D43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
